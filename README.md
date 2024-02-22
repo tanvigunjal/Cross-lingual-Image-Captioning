@@ -1,4 +1,4 @@
-# Multilingual Image Captioning 
+# Cross-lingual Image Captioning (Multilingual image captioning)
 
 # Objective 
 
